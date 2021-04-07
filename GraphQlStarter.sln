@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQl", "GraphQl\GraphQl.csproj", "{38669913-16DF-4DAC-ADDA-CAF2070F07E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41B26E4B-27F7-4FDA-88A0-44571513F881}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|x64.Build.0 = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Debug|x86.Build.0 = Debug|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|x64.ActiveCfg = Release|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|x64.Build.0 = Release|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|x86.ActiveCfg = Release|Any CPU
+		{38669913-16DF-4DAC-ADDA-CAF2070F07E3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC28E72-B803-42C9-A108-6B0E0311DFC4}
+	EndGlobalSection
+EndGlobal
