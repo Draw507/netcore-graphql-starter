@@ -1,0 +1,14 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.store/
+.sonarqube/
+.vscode/
+**/.appsettings.Local.json
+
+GraphQl/bin/*
+GraphQl/obj/*
+formatDiagnosticLog.binlog
